@@ -7,6 +7,7 @@
 					<t t-call="web.external_layout">
             <div class="page">
                 <br/>
+                <br/>
                 <h3 align="center">LIQUIDACION DE SUELDO</h3>
                 
                 <span  t-raw="o.name"/>
